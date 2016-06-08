@@ -1,0 +1,7 @@
+<phpunit>
+    <testsuites>
+        <testsuite name="app fig v:1.0">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

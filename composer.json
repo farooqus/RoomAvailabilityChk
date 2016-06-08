@@ -1,0 +1,20 @@
+{
+    "name": "search/app",
+    "description": "Check rooms availability",
+    "require-dev": {
+        "phpunit/phpunit": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Farooq Vighio",
+            "email": "farooq@vighio.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "search\\app\\": "src/search/app/"
+        }
+    }
+}
